@@ -1,0 +1,1 @@
+export let score: number = 0 // score variable
